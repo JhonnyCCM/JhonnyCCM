@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2M3c2E0NnZzODRqa28zbDV6Y3AyaGczOWQ0NjEwd2M4Z3R5YzF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzX399vA23uA0ZqKxI/giphy.gif" height="200" alt="Futuristic Coding GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHoyOXc3eWx1bGR6ZXFnZHR5d2hibGczNGs5Y2VrY2lsNGxpeHZsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HBY1eWGzDALwnyeHPw/giphy.gif" height="200" alt="Futuristic Coding GIF"/>
 </p>
 
 <h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> Soy Jhonny Castillo</h1>
@@ -89,5 +89,5 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="Cyberpunk City GIF" height="160px" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm5qcGhqZHRjM2J2MTR1eGZtYWZtbXgxbTFyYXVpZjNwcDBpdzhvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X2XitY1K1vX9Gndv5D/giphy.gif" />
+  <img align="center" alt="Ciudad Blanco y Negro" height="200px" src="https://images.pexels.com/photos/15166489/pexels-photo-15166489.jpeg?auto=compress&cs=tinysrgb&w=800" />
 </p>
