@@ -25,8 +25,8 @@
 - 🔭 Desarrollando arquitecturas **Full Stack** escalables y dándole vida a interfaces modernas.
 - 🎓 Estudiando Ingeniería de Software en la **ULEAM** (Manta, Ecuador).
 - 🛠️ Construyendo aplicaciones con **Vue 3, Angular, React** y orquestando el backend con **Node.js, Supabase y PostgreSQL**.
-- 🎮 Explorando ocasionalmente el desarrollo de videojuegos en **Unity (C#)** y mecánicas en **Roblox Studio**.
-- ⚡ **Fun fact:** Cuando no estoy programando pipelines en GitHub Actions o lidiando con Docker, me encuentras levantando pesas en el gym, armando sets de LEGO, coleccionando Hot Wheels o jugando un modpack de Minecraft (Cobblemon/KEO RPG).
+- 🎮 Explorando ocasionalmente el desarrollo de videojuegos y sistemas interactivos en **Unity (C#)**.
+- ⚡ **Fun fact:** Cuando no estoy automatizando pipelines en GitHub Actions o peleando con contenedores en Docker, probablemente me encuentres refactorizando código que ya funcionaba (solo por hacerlo más limpio) o debatiendo la arquitectura de mi próximo proyecto Full Stack en la madrugada.
 
 ---
 
@@ -86,11 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/czl9707/gh-space-shooter" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://gh-space-shooter.vercel.app/api?user=JhonnyCCM&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://gh-space-shooter.vercel.app/api?user=JhonnyCCM&theme=light">
-      <img src="https://gh-space-shooter.vercel.app/api?user=JhonnyCCM&theme=tokyonight" alt="JhonnyCCM's GitHub Space Shooter" />
-    </picture>
+    <img src="https://gh-space-shooter.vercel.app/api?user=JhonnyCCM" alt="JhonnyCCM's GitHub Space Shooter" />
   </a>
 </p>
 
@@ -102,8 +98,4 @@
   <a href="mailto:TU_CORREO_AQUI@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p align="center">
-  <img align="center" alt="Ciudad Blanco y Negro" height="200px" src="https://images.pexels.com/photos/15166489/pexels-photo-15166489.jpeg?auto=compress&cs=tinysrgb&w=800" />
 </p>
