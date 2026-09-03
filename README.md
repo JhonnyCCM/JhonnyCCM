@@ -80,6 +80,22 @@
 
 ---
 
+## 🚀 Defiende mi Código
+
+¡Mi gráfico de contribuciones es un campo de batalla! Haz clic en la imagen para jugar al épico **Space Shooter** generado con mis commits.
+
+<p align="center">
+  <a href="https://github.com/czl9707/gh-space-shooter" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://gh-space-shooter.vercel.app/api?user=JhonnyCCM&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://gh-space-shooter.vercel.app/api?user=JhonnyCCM&theme=light">
+      <img src="https://gh-space-shooter.vercel.app/api?user=JhonnyCCM&theme=tokyonight" alt="JhonnyCCM's GitHub Space Shooter" />
+    </picture>
+  </a>
+</p>
+
+---
+
 ## 📡 Transmisión de Contacto
 
 <p align="center">
