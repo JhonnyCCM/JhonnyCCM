@@ -3,7 +3,7 @@
 
   <h1>¡Hola! 👋 Soy Jhonny Castillo</h1>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+de+Software+%40+ULEAM;Creando+MCPs+(Model+Context+Protocol)+por+Hobby+%F0%9F%A4%96;Arquitecturas+Escalables+%26+Interfaces+Modernas" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%F0%9F%9A%80;Estudiante+de+Ingenier%C3%ADa+de+Software+%40+ULEAM;Creando+MCPs+(Model+Context+Protocol)+por+Hobby+%F0%9F%A4%96;Arquitecturas+Escalables%2C+Cloud+%26+Game+Dev+%F0%9F%8E%AE" alt="Typing SVG" /></a>
 
   <p>
     <a href="https://github.com/JhonnyCCM" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -23,30 +23,29 @@ const jhonnyCastillo = {
   education: "Ingeniería de Software @ ULEAM",
   role: "Full Stack Developer",
   hobbies: [
-    "Crear servidores MCP (Model Context Protocol) personalizados 🤖",
-    "Experimentar con Game Dev en Unity (C#) 🎮",
-    "Automatizar flujos y construir herramientas para desarrolladores ⚡"
+    "Desarrollar pequeños servidores MCP (Model Context Protocol) 🤖",
+    "Explorar Game Dev en Unity, Godot y Unreal Engine 🎮",
+    "Diseñar interfaces UI/UX en Figma y arquitecturas limpias ⚡"
   ],
-  architectureFocus: ["Clean Code", "Scalable APIs", "Modern UI/UX", "CI/CD"]
+  architectureFocus: ["Clean Code", "Scalable APIs", "Cloud & CI/CD", "Modern UI/UX"]
 };
 ```
 
 - 🔭 Desarrollando arquitecturas **Full Stack** escalables y dándole vida a interfaces modernas.
-- 🧠 **Hobby actual:** Me encanta construir pequeños **MCPs (Model Context Protocol)** en Python y Node.js para conectar modelos de IA con mis herramientas diarias (generación de imágenes desde el IDE, métricas de código, estadísticas de Spotify, entre otros), además de desarrollar todo tipo de proyectos experimentales.
+- 🧠 **Hobby actual:** Construir pequeños **MCPs (Model Context Protocol)** para conectar agentes de IA con herramientas de diseño y servicios externos, además de experimentar con nuevos lenguajes y motores gráficos.
 - 🎓 Estudiando Ingeniería de Software en la **ULEAM** (Manta, Ecuador).
-- 🛠️ Construyendo aplicaciones con **Vue 3, Angular, React** y orquestando el backend con **Node.js, Python, Supabase y PostgreSQL**.
-- 🎮 Explorando ocasionalmente el desarrollo de videojuegos y sistemas interactivos en **Unity (C#)**.
-- ⚡ **Fun fact:** Cuando no estoy creando un nuevo MCP por pura curiosidad o peleando con contenedores en Docker, probablemente me encuentres refactorizando código que ya funcionaba (solo por hacerlo más limpio) en la madrugada.
+- 🛠️ Construyendo el frontend con **Vue 3, Angular, React, Next.js y Nuxt.js**, y orquestando el backend con **Node.js, Bun, NestJS, Django y .NET**.
+- 🗄️ Gestionando datos e infraestructura con **PostgreSQL, MySQL, MongoDB, SQLite, Supabase, Docker** y entornos Cloud (**AWS, Google Cloud, Azure**).
+- ⚡ **Fun fact:** Cuando no estoy armando un nuevo MCP por curiosidad o peleando con contenedores en Docker, probablemente me encuentres refactorizando código que ya funcionaba (solo por hacerlo más limpio) en la madrugada.
 
 ---
 
-## 🤖 Ecosistema MCP & Proyectos por Hobby
+## 🤖 Mis Proyectos MCP (Model Context Protocol)
 
-Además del desarrollo web Full Stack, disfruto diseñar herramientas que extienden las capacidades de la IA mediante **Model Context Protocol (MCP)**:
+Por hobby disfruto desarrollar servidores **MCP** ligeros que amplían las capacidades de los modelos de IA e integran flujos de trabajo directamente con el entorno de desarrollo:
 
-- 🎨 **Image Generator MCP:** Generación de imágenes directamente integrada al flujo de trabajo en el IDE.
-- 🎵 **Spotify Stats MCP:** Conexión y consulta de estadísticas musicales en tiempo real mediante agentes.
-- ⏱️ **Coding Tracker MCP:** Seguimiento automatizado de sesiones y productividad de programación.
+- 🎨 **[Design-Extractor-MCP](https://github.com/JhonnyCCM/Design-Extractor-MCP):** Extracción automatizada de tokens de diseño, paletas de colores, tipografías y estilos para acelerar el flujo entre UI/UX y código.
+- 🎵 **[Spotify-Stats-MCP](https://github.com/JhonnyCCM/Spotify-Stats-MCP):** Integración directa para consultar estadísticas musicales, reproducción y métricas de Spotify mediante agentes de IA.
 
 ---
 
@@ -54,17 +53,23 @@ Además del desarrollo web Full Stack, disfruto diseñar herramientas que extien
 
 <div align="center">
 
-### 💻 Lenguajes & Game Dev
-<img src="https://skillicons.dev/icons?i=js,ts,py,cs,unity&theme=dark" alt="Languages" />
+### 💻 Lenguajes de Programación
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,go,kotlin,swift&theme=dark&perline=11" alt="Languages" />
 
-### 🌌 Frontend
-<img src="https://skillicons.dev/icons?i=vue,angular,react,tailwind,html,css&theme=dark" alt="Frontend" />
+### 🌌 Frontend & UI
+<img src="https://skillicons.dev/icons?i=vue,angular,react,nextjs,nuxtjs,tailwind,vite,html,css&theme=dark&perline=9" alt="Frontend" />
 
-### 🛰️ Backend, Bases de Datos & IA
-<img src="https://skillicons.dev/icons?i=nodejs,django,supabase,postgres,mysql&theme=dark" alt="Backend" />
+### 🛰️ Backend & Runtimes
+<img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,django&theme=dark" alt="Backend" />
 
-### ⚙️ DevOps & Herramientas
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,bun,git,vscode&theme=dark" alt="DevOps" />
+### 🗄️ Bases de Datos & BaaS
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb,sqlite&theme=dark" alt="Databases" />
+
+### ☁️ DevOps, Cloud & Herramientas
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,vercel,git,github&theme=dark&perline=9" alt="DevOps and Cloud" />
+
+### 🎮 Game Dev & Diseño UI/UX
+<img src="https://skillicons.dev/icons?i=unity,godot,unreal,figma&theme=dark" alt="Game Dev and Design" />
 
 </div>
 
@@ -73,33 +78,26 @@ Además del desarrollo web Full Stack, disfruto diseñar herramientas que extien
 ## 📊 Estadísticas del Sistema y Lenguajes Usados
 
 <div align="center">
-  <!-- Resumen general del perfil y lenguajes (Servidor rápido sin caída por límite de API) -->
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JhonnyCCM&theme=tokyonight" alt="GitHub Stats" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonnyCCM&theme=tokyonight" alt="Top Languages by Repo" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhonnyCCM&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <!-- Racha de Commits (Servidor oficial actualizado demolab) -->
   <img height="165" src="https://streak-stats.demolab.com/?user=JhonnyCCM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <!-- Gráfico de actividad de contribuciones -->
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonnyCCM&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ---
 
-## 🚀 Defiende mi Código
+## 📈 Pulso de Actividad
 
-<p align="center">
-  ¡Mi gráfico de contribuciones es un campo de batalla! Haz clic en la imagen para jugar al épico <b>Space Shooter</b> generado con mis commits.
-</p>
-
-<p align="center">
-  <a href="https://github.com/czl9707/gh-space-shooter" target="_blank"><img src="https://gh-space-shooter.vercel.app/api?user=JhonnyCCM" alt="JhonnyCCM's GitHub Space Shooter" /></a>
-</p>
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JhonnyCCM&theme=tokyo-night&hide_border=true&area=true" alt="JhonnyCCM's Activity Graph" />
+</div>
 
 ---
 
